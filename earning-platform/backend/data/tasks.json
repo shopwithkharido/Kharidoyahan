@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Follow us on Instagram",
+    "description": "Follow our Instagram page and like our latest 3 posts",
+    "category": "Social Media",
+    "reward": 25,
+    "requirements": "1. Follow @earnhub_official\n2. Like the latest 3 posts\n3. Take a screenshot showing you followed and liked",
+    "status": "active",
+    "createdAt": "2025-11-15T16:28:21.183Z"
+  },
+  {
+    "id": "2",
+    "title": "Complete Customer Survey",
+    "description": "Fill out a short survey about your shopping preferences",
+    "category": "Survey",
+    "reward": 50,
+    "requirements": "1. Click the survey link\n2. Answer all questions honestly\n3. Submit the survey\n4. Provide the confirmation code",
+    "status": "active",
+    "createdAt": "2025-11-15T16:28:21.183Z"
+  },
+  {
+    "id": "3",
+    "title": "Test Mobile App",
+    "description": "Download and test our new mobile app for 10 minutes",
+    "category": "App Testing",
+    "reward": 75,
+    "requirements": "1. Download the app from the link\n2. Use it for at least 10 minutes\n3. Report any bugs or issues\n4. Provide screenshots of your usage",
+    "status": "active",
+    "createdAt": "2025-11-15T16:28:21.183Z"
+  },
+  {
+    "id": "4",
+    "title": "Watch Product Video",
+    "description": "Watch a 5-minute product demonstration video",
+    "category": "Video",
+    "reward": 15,
+    "requirements": "1. Watch the entire video\n2. Answer 3 simple questions about the video\n3. Provide the completion code shown at the end",
+    "status": "active",
+    "createdAt": "2025-11-15T16:28:21.183Z"
+  },
+  {
+    "id": "5",
+    "title": "Data Entry Task",
+    "description": "Enter 50 product details from images into a spreadsheet",
+    "category": "Data Entry",
+    "reward": 100,
+    "requirements": "1. Download the images\n2. Create a spreadsheet with product name, price, and description\n3. Enter data for all 50 products\n4. Upload the completed spreadsheet",
+    "status": "active",
+    "createdAt": "2025-11-15T16:28:21.183Z"
+  },
+  {
+    "id": "6",
+    "title": "Refer a Friend",
+    "description": "Invite friends to join EarnHub and earn when they complete their first task",
+    "category": "Referral",
+    "reward": 50,
+    "requirements": "1. Share your referral link\n2. Your friend must sign up using your link\n3. They must complete at least one task\n4. You both get rewarded!",
+    "status": "active",
+    "createdAt": "2025-11-15T16:28:21.183Z"
+  }
+]
