@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Demo User",
+    "email": "user@demo.com",
+    "password": "$2b$10$ggr9GaGSX6HU4/WSo2SYCeufqC2VchUFj0pZSz7CEsvnBHdMQhl32",
+    "role": "user",
+    "wallet": 250.5,
+    "tasksCompleted": 5,
+    "createdAt": "2025-11-15T16:28:21.069Z"
+  },
+  {
+    "id": "2",
+    "name": "Admin User",
+    "email": "admin@demo.com",
+    "password": "$2b$10$PwGQaqEc7OI4Ut9iUXXuk.DuuzT0bisc99GsfXn3UE2ur2cLcRa2.",
+    "role": "admin",
+    "wallet": 0,
+    "tasksCompleted": 0,
+    "createdAt": "2025-11-15T16:28:21.183Z"
+  }
+]
